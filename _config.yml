@@ -1,11 +1,11 @@
 # Site settings
 author: JeanCarlos Tavarez
-title: 
+title: Struggle Code
 header-img: img/home-bg.png
 email: jeancarlos.tavarez1@gmail.com
 copyright_name: JeanCarlos Tavarez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Insight into my journey to become a Coder.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jtavarez14
